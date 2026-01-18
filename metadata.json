@@ -1,0 +1,5 @@
+{
+  "name": "Silhouette to Smoke",
+  "description": "Interactive particle effect where a silhouette transforms into smoke controlled by mouse movement.",
+  "requestFramePermissions": []
+}
